@@ -3,7 +3,7 @@
   import react from '@vitejs/plugin-react-swc';
   import path from 'path';
 
-  export default defineConfig({
+ 
     export default defineConfig({
   base: "/sustainable-living-website/",
   plugins: [react()],
@@ -70,3 +70,4 @@
       open: true,
     },
   });
+
