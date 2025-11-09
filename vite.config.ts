@@ -11,6 +11,7 @@
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
     alias: {
       // ...your aliases
+      'vaul@1.1.2': 'vaul',
     }
   }
   // ...rest of the config
@@ -70,4 +71,5 @@
       open: true,
     },
   });
+
 
